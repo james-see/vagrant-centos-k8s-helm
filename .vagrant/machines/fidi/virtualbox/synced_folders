@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/jc/projects/vagrant-centos7","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/home/vagrant/projects/primer/fidi":{"type":"virtualbox","guestpath":"/home/vagrant/projects/primer/fidi","hostpath":"/Users/jc/projects/fidi","disabled":false,"__vagrantfile":true}}}
